@@ -23,7 +23,7 @@ const App = () => {
   const convertCurrencies = async () => {
     try {
       const { data } = await axios.get(
-        `http://localhost:4000/convert?base_currency=${baseCurrency}&currencies=${selectedCurrency}`
+        `https://currency-convertor-9gzx.onrender.com/convert?base_currency=${baseCurrency}&currencies=${selectedCurrency}`
       );
       
       let result = Object.values(data.data)[0] * amount;
