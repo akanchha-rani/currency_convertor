@@ -9,7 +9,7 @@ config({ path: './config/config.env' });
 const PORT = process.env.PORT || 4000;
 
 app.use(cors({
-    origin: process.env.FRONTEND_URL,
+    origin: 'https://currency-convertor-frontend-z585.onrender.com',
     methods: ['GET'],
 }));
 
