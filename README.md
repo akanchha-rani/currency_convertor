@@ -27,4 +27,10 @@ Selects To Currency
 Clicks Convert
 Converted value is displayed instantly
 
+📂 Project Structure
+currency_convertor/
+├── frontend/        # UI files (HTML, CSS, JS)
+├── backend/         # Server & API logic (if applicable)
+├── README.md
+└── package.json
 
