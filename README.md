@@ -19,3 +19,12 @@ Instant and accurate conversion results
 Clean and responsive design
 Easy currency selection
 Simple amount input and conversion output
+
+🔐 Application Flow
+User enters the amount
+Selects From Currency
+Selects To Currency
+Clicks Convert
+Converted value is displayed instantly
+
+
