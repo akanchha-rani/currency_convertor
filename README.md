@@ -15,3 +15,7 @@ Features
 Convert between multiple international currencies
 Real-time exchange rate updates
 Instant and accurate conversion results
+🎨User Interface
+Clean and responsive design
+Easy currency selection
+Simple amount input and conversion output
