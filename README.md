@@ -9,3 +9,9 @@ Frontend: HTML, CSS, JavaScript
 Backend: Node.js / Express (if applicable)
 API: Currency Exchange Rate API
 Deployment: Render
+
+Features
+🔄 Currency Conversion
+Convert between multiple international currencies
+Real-time exchange rate updates
+Instant and accurate conversion results
