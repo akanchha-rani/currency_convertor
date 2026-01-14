@@ -60,8 +60,13 @@ currency_convertor/
 
 └── package.json
 
+
 💡 Use Cases
+
 Travelers converting currencies before trips
+
 Students learning about exchange rates
+
 Businesses calculating international prices
+
 General users needing quick currency conversion
