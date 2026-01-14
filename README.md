@@ -1,37 +1,63 @@
 💱 Currency Convertor
 
+
 📌 Overview
-Currency Convertor is a simple, fast, and user-friendly web application that allows users to convert one currency into another using real-time exchange rates. The application is designed to help users quickly calculate currency values for travel, business, or learning purposes.
-The project focuses on accuracy, clean UI, and smooth user experience.
+
+Currency Convertor is a simple, fast, and user-friendly web application that allows users to convert one currency into another using real-time exchange rates. The application is designed to help users quickly calculate currency values for travel, business, or learning purposes.The project focuses on accuracy, clean UI, and smooth user experience.
 
 🛠️ Tech Stack
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: Node.js / Express (if applicable)
+
 API: Currency Exchange Rate API
+
 Deployment: Render
 
+
 Features
+
 🔄 Currency Conversion
+
 Convert between multiple international currencies
+
 Real-time exchange rate updates
+
 Instant and accurate conversion results
+
 🎨User Interface
+
 Clean and responsive design
+
 Easy currency selection
+
 Simple amount input and conversion output
 
+
 🔐 Application Flow
+
 User enters the amount
+
 Selects From Currency
+
 Selects To Currency
+
 Clicks Convert
+
 Converted value is displayed instantly
 
+
 📂 Project Structure
+
 currency_convertor/
+
 ├── frontend/        # UI files (HTML, CSS, JS)
+
 ├── backend/         # Server & API logic (if applicable)
+
 ├── README.md
+
 └── package.json
 
 💡 Use Cases
